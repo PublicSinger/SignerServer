@@ -1,4 +1,5 @@
-# SingServer
+# SignerServer
+a simple sign server  
 pr and issue are welcome.
 
 ## Deploy
