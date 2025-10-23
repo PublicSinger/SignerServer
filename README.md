@@ -26,7 +26,7 @@ pr and issue are welcome.
 
 上面的赞扬开源精神灵感来源于 @Haruko-Kama (或者叫 @Nekoer 呢)
 
-何意呢? ^^
+何意呢? Tg @hcyacg 同学? ^^
 
 ![Screenshot](https://github.com/user-attachments/assets/59df81db-d291-4f8d-9522-707d697f96e1)
 ![Screenshot](https://github.com/user-attachments/assets/fe5484cb-a517-4474-b2f8-1841326969ef)
