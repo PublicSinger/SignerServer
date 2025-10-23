@@ -22,7 +22,7 @@ app = Flask("SignerServer")
 @app.route("/", methods=["GET"])
 def index():
     # 302 to url
-    return "", 302, {"Location": "https://www.bilibili.com/video/BV1MQ4y1a7JY"}
+    return "", 302, {"Location": "https://t.me/+6HNTeJO0JqtlNmRl"}
 
 @app.route("/s", methods=["GET", "POST"])
 @app.route("/sign", methods=["GET", "POST"])
