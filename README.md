@@ -30,3 +30,7 @@ pr and issue are welcome.
 
 ![Screenshot](https://github.com/user-attachments/assets/59df81db-d291-4f8d-9522-707d697f96e1)
 ![Screenshot](https://github.com/user-attachments/assets/fe5484cb-a517-4474-b2f8-1841326969ef)
+
+加油哦大哥哥 快去多fork几个sign 我就看靠你找SignServer了 ^^
+
+![Screenshot](https://github.com/user-attachments/assets/62ea12fa-a123-4f6a-903d-eb5045ae3bf9)
