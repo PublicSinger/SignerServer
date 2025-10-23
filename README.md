@@ -8,17 +8,11 @@ pr and issue are welcome.
 * run `pip install -r requirements.txt`
 * run `python3 main.py`
 
-~~## Praise the spirit of open source~~
-
-~~Praise the open-source spirit of our great master Linwenxuan04~~
-
-~~Here is the QQ contact information of the expert: 1925648680~~
-
-~~![Image](https://github.com/user-attachments/assets/6fe243e1-d92b-4a9f-a12a-6690518ef64c)~~
-
 自己研究着用吧 不会再更新了 懒得弄了 如果tx补特征了就自己想办法解决吧
 
-本仓库所有提交者均为伪造 对本仓库内容有任何疑问 -> https://t.me/priv_ate_d_m_bot
+本仓库所有提交者均为伪造 抱歉哦 @Linwenxuan04
+
+对本仓库内容有任何疑问 -> https://t.me/priv_ate_d_m_bot
 
 没法解决你不会用的问题 不会用只能证明你的智商不够 所以不要问"怎么用"
 
@@ -34,3 +28,5 @@ pr and issue are welcome.
 加油哦大哥哥 快去多fork几个sign 我就看靠你找SignServer了 ^^
 
 ![Screenshot](https://github.com/user-attachments/assets/62ea12fa-a123-4f6a-903d-eb5045ae3bf9)
+
+真的好乐啊 闲着没事整点东西还能在群里激起一顿讨论 ^^
